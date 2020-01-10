@@ -28,11 +28,11 @@ charges in, the mob keeping Razorgore subdued will release him. The orb controll
 Razorgore start beating on raiders. To make this easier, the controller can stand on on the ground, below the
 orb and get ready to click the orb without starting the fight.
 
-After burning the mobs down, one half of the raid should continue over the platform and stay roughly
-grouped on the western corner, the other should stay in the southern corner. Healers and ranged DPS
-should move to the platform in order to avoid any cleave.
+After burning down the mobs that were standing on the platform, one half of the raid should continue over 
+the platform and stay roughly grouped on the western corner, the other should stay in the southern corner. 
+Healers and ranged DPS should move to the platform in order to avoid any cleave.
 
-Three different kinds of mobs will spawn: Legionaires, Mages and Dragons. As the mobs spawn they will come to the raid to be killed. The kill priority is Mages, then Dragons, then Legionaires. Classes with a counterspell/silence should interrupt the mages in the far corners so they join the rest of the group. Yes, warriors you can Intercept and Shield Bash, just come back quick. If a tank has two dragons on them, they might need to pop cooldowns so they should be to ask for help.
+Three different kinds of mobs will spawn: Legionaires, Mages and Dragons. As the mobs spawn they will come to the raid to be killed. The kill priority is Mages, then Dragons, then Legionaires. Classes with a counterspell/silence should interrupt the mages in the far corners so they join the rest of the group. Yes, warriors you can Intercept and Shield Bash, just come back quick. If a tank has two dragons on them, they might need to pop cooldowns so they should be ready to ask for help.
 
 Once the last egg is down, all of the mobs will run out of the room and phase two will begin.
 
