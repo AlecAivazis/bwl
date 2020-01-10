@@ -43,7 +43,7 @@ by the west corner of the inner square. The ranged dps should stack on a marked 
 will move behind the wall on the south side of the platform to avoid fireball volley. A melee
 DPS will also be calling for a retreat to the same wall (very similar to Rag).
 
-![razorgore-position](./images/razorgore-position.png)
+<img src="/images/razorgore-position.png" width="400px"/>
 
 During this time, Razorgore will conflagerate just like Drakkisath in UBRS. Unforunately Razorgore
 is immune to taunt so whoever is next on threat will get hit. This means that DPS has to be very
