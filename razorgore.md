@@ -45,6 +45,10 @@ DPS will also be calling for a retreat to the same wall (very similar to Rag).
 
 <img src="/images/razorgore-position.png" width="300px"/>
 
+Note, in this photo. A large majority of the ranged DPS are making a mistake. They should be more tightly
+grouped on the yellow star. In this video, many of the people far out on the right get hit by the fireballs. 
+Don't be them. 
+
 During this time, Razorgore will conflagerate just like Drakkisath in UBRS. Unforunately Razorgore
 is immune to taunt so whoever is next on threat will get hit. This means that DPS has to be very
 careful about their threat and make sure that the Off-Tank is second. If they are unable to generate
