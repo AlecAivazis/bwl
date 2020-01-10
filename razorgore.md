@@ -11,7 +11,7 @@ spawn and have to be killed by the rest of the raid. The moment the last egg is 
 all of the mobs run out of the room and the second phase begins. In the second phase, the
 group burns Razorgore down while dipping behind a wall to avoid raid-wide damage.
 
-## Raid Group / Positioning
+## Raid Group Makeup
 
 We are going to be splitting the raid up into two halves for phase 1. Make sure each half
 has an even mix of classes.
@@ -43,7 +43,7 @@ by the west corner of the inner square. The ranged dps should stack on a marked 
 will move behind the wall on the south side of the platform to avoid fireball volley. A melee
 DPS will also be calling for a retreat to the same wall (very similar to Rag).
 
-![razorgore-position](./images/razorgore-postion.png)
+![razorgore-position](./images/razorgore-position.png)
 
 During this time, Razorgore will conflagerate just like Drakkisath in UBRS. Unforunately Razorgore
 is immune to taunt so whoever is next on threat will get hit. This means that DPS has to be very
