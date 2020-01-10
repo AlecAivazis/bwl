@@ -2,7 +2,7 @@
 
 This is mostly meant for me to organize my thoughts as my guild prepares for phase 3.
 
-![map](./images/bwl-map.jpg)
+![map](./images/bwl-map.png)
 
 ## Encounters
 
