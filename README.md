@@ -1,7 +1,6 @@
 # Bougatsa's Guide to Black Wing Lair
 
-Welcome to my guid for completing Black Wing Lair. This is
-mostly meant for me to organize my thoughts as my guild prepares for phase 3.
+This is mostly meant for me to organize my thoughts as my guild prepares for phase 3.
 
 ![map](./images/bwl-map.jpg)
 
