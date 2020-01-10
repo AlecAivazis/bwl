@@ -9,11 +9,11 @@ mostly meant for me to organize my thoughts as my guild prepares for phase 3.
 
 This guide is broken up into separate documents for each encounter.
 
-1. [Razorgore the Untamed](./razorgore)
-1. [Vaelastrasz the Corrupt](./vaelastrasz)
-1. [Supression Room / Broodlord Lashlayer](./bloodlord)
-1. [Firemaw](./firemaw)
-1. [Ebonroc](./ebonroc)
-1. [Flamegor](./flamegor)
-1. [Chromaggus](./chromaggus)
-1. [Nefarian](./nefarian)
+1. [Razorgore the Untamed](./razorgore.md)
+1. [Vaelastrasz the Corrupt](./vaelastrasz.md)
+1. [Supression Room / Broodlord Lashlayer](./bloodlord.md)
+1. [Firemaw](./firemaw.md)
+1. [Ebonroc](./ebonroc.md)
+1. [Flamegor](./flamegor.md)
+1. [Chromaggus](./chromaggus.md)
+1. [Nefarian](./nefarian.md)
