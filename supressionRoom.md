@@ -1,4 +1,7 @@
-# Vael Trash / Supression Room / Broodlord
+# Vael Trash / Supression Room
+
+Once vael is dead, the next target is the infamous Supression Room. Before the raid can
+enter the gauntlet, there is some trash they must go through.
 
 ## Vael Trash
 
