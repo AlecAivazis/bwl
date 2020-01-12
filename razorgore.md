@@ -1,6 +1,6 @@
 # Razorgore the Untamed
 
-<img src="/images/razorgore-room.png" width="300px" />
+<img src="./images/razorgore-room.png" width="300px" />
 
 ## General Idea
 
