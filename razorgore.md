@@ -1,5 +1,7 @@
 # Razorgore the Untamed
 
+<img src="/images/razorgore-room.png" width="300px" />
+
 ## General Idea
 
 The room starts filled with 30 eggs and a few mobs on a platform along the south-western wall.
@@ -10,6 +12,9 @@ uses Razorgore to break the eggs in the room. During that time, adds will contin
 spawn and have to be killed by the rest of the raid. The moment the last egg is destroyed,
 all of the mobs run out of the room and the second phase begins. In the second phase, the
 group burns Razorgore down while dipping behind a wall to avoid raid-wide damage.
+
+NOTE: When you're done with the fight, don't leave the room. If you cross the door before
+pulling the goblins inside, we will lose a chance at elementium ore (necessary for thunderfury).
 
 ## Raid Group Makeup
 
@@ -28,8 +33,8 @@ charges in, the mob keeping Razorgore subdued will release him. The orb controll
 Razorgore start beating on raiders. To make this easier, the controller can stand on on the ground, below the
 orb and get ready to click the orb without starting the fight.
 
-After burning down the mobs that were standing on the platform, one half of the raid should continue over 
-the platform and stay roughly grouped on the western corner, the other should stay in the southern corner. 
+After burning down the mobs that were standing on the platform, one half of the raid should continue over
+the platform and stay roughly grouped on the western corner, the other should stay in the southern corner.
 Healers and ranged DPS should move to the platform in order to avoid any cleave.
 
 Three different kinds of mobs will spawn: Legionaires, Mages and Dragons. As the mobs spawn they will come to the raid to be killed. The kill priority is Mages, then Dragons, then Legionaires. Classes with a counterspell/silence should interrupt the mages in the far corners so they join the rest of the group. Yes, warriors you can Intercept and Shield Bash, just come back quick. If a tank has two dragons on them, they might need to pop cooldowns so they should be ready to ask for help.
@@ -43,11 +48,11 @@ by the west corner of the inner square. The ranged dps should stack on a marked 
 will move behind the wall on the south side of the platform to avoid fireball volley. A melee
 DPS will also be calling for a retreat to the same wall (very similar to Rag).
 
-<img src="/images/razorgore-position.png" width="300px"/>
+<img src="/images/razorgore-position.png" width="300px" />
 
 Note, in this photo. A large majority of the ranged DPS are making a mistake. They should be more tightly
-grouped on the yellow star. In this video, many of the people far out on the right get hit by the fireballs. 
-Don't be them. 
+grouped on the yellow star. In this video, many of the people far out on the right get hit by the fireballs.
+Don't be them.
 
 During this time, Razorgore will conflagerate just like Drakkisath in UBRS. Unforunately Razorgore
 is immune to taunt so whoever is next on threat will get hit. This means that DPS has to be very
