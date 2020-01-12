@@ -60,5 +60,4 @@ Don't be them.
 
 During this time, Razorgore will conflagerate just like Drakkisath in UBRS. Unforunately Razorgore
 is immune to taunt so whoever is next on threat will get hit. This means that DPS has to be very
-careful about their threat and make sure that the Off-Tank is second. If they are unable to generate
-enough threat when off-tanking as deep prot then they should consider fury-prot for more threat.
+careful about their threat and make sure that the off-tank is as close to second as possible.
