@@ -5,8 +5,8 @@ enter the gauntlet, there is some trash they must go through.
 
 ## Vael Trash
 
-The trash is skippable by having the entire raid hide like while a hunter pulls the group
-and feigns.
+The trash is skippable by having the entire raid hide behind a corner while a hunter pulls the group
+and feigns once everyone's through.
 
 <img src="./images/supression-hide.png" width="300px">
 
