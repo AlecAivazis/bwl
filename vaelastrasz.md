@@ -20,6 +20,8 @@ there is no need for melee to move in this fight so once we have set it up, they
 
 Before the fight, establish a place that ranged dps will run if they get the bomb.
 
+<img src="./images/vael-position.png" width="300px" />
+
 ## The Encounter
 
 On screen, this fight is relatively straight forward. At the beginning, everyone receives
