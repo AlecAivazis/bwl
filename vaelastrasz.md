@@ -29,9 +29,9 @@ On screen, this fight is relatively straight forward. At the beginning, everyone
 the boss down. Periodically, a mana user will get
 [Burning Adrenanline](https://classic.wowhead.com/spell=18173/burning-adrenaline) that will kill them
 in 20 seconds and cause an explosion/knock back. This death is unavoidable so ranged so go to the designated
-spot and go out with a bang. Occasionally the player with the highest threat will also get the DoT and die.
-When this happens (really when the tank notices they got the DoT) the person that's second in threat needs
-to get where the tank is.
+spot and go out with a bang. Occasionally (around every 45 seconds), the player with the highest threat will
+also get the DoT and die. When this happens the person that's second in threat needs to get where the tank
+is and be ready to take over.
 
 ## Notes:
 
