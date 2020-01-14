@@ -5,10 +5,8 @@ enter the gauntlet, there is some trash they must go through.
 
 ## Vael Trash
 
-<img src="./images/supression-trash.png" width="300px"/>
-
-The trash is skippable by having the entire raid hide like while a hunter pulls the group
-and feigns.
+The trash is skippable by having the entire raid hide behind a corner while a hunter pulls the group
+and feigns once everyone's through.
 
 <img src="./images/supression-hide.png" width="300px"/>
 
@@ -18,7 +16,7 @@ the mobs. Make sure that someone in the raid buffs the hunter while they're runn
 a possibility that the mobs will respawn when the hunter resets. [This video](https://youtu.be/ViurYyGYBCs?t=140)
 provides a good overview of how to kite this pack.
 
-The mobs should be tanked (1 tank to each) on the corner before the path on to the supression room.
+The mobs should be tanked on the corner before the path on to the supression room (1 tank to each).
 Wyrmkinds need to be kept asleep by druids.
 
 ## Supression Room
