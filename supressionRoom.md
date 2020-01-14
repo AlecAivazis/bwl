@@ -5,10 +5,12 @@ enter the gauntlet, there is some trash they must go through.
 
 ## Vael Trash
 
+<img src="./images/supression-trash.png" width="300px"/>
+
 The trash is skippable by having the entire raid hide like while a hunter pulls the group
 and feigns.
 
-<img src="./images/supression-hide.png" width="300px">
+<img src="./images/supression-hide.png" width="300px"/>
 
 If your raid is up for it, the mobs can be killed and have a chance to drop epics. The Death Talon Captain
 should be kited by a hunter around Vael's room by running up and down the stairs while the rest of the raid get
@@ -18,3 +20,7 @@ provides a good overview of how to kite this pack.
 
 The mobs should be tanked (1 tank to each) on the corner before the path on to the supression room.
 Wyrmkinds need to be kept asleep by druids.
+
+## Supression Room
+
+<img src="./images/supression-map.png" width="300px" />
