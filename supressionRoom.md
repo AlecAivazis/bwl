@@ -1,6 +1,6 @@
 # Trash after Vael / Supression Room / Broodlord
 
-Once vael is dead, the next target is the infamous Supression Room and then onto Broodlord Lashlayer.
+Once vael is dead, the next hurdle is the Supression Room and then onto Broodlord Lashlayer.
 Before the raid can enter the gauntlet, there is some trash they must go through.
 
 ## Vael Trash
