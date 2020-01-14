@@ -50,7 +50,7 @@ bring them back up to full.
 
 Notes:
 
-- If there are two dragons being pulled, someone else can pull one off of the hunter who then feings, resetting only one of them.
+- If there are two dragons being pulled, someone else can pull one off of the hunter who then feigns, resetting only one of them.
 - DO NOT dps the whelps until the raid leader calls for it.
 - All stacks have to be super tight in this room. The entire group of 40 should look like one person.
 - If your raid get frusterated, apparently hunters [can kite](https://www.youtube.com/watch?v=7bNyXFhTUjU) the mobs
@@ -63,11 +63,11 @@ Having gotten through the Supression Room, this fight is most a tank and spank. 
 responsible for disarming the supression devices and dps should get whelps down when the boss is
 pulled. However if everyone does their job, the boss should go down without too much trouble.
 
-He has a frontal cone that knocks the tanks back, a 50% aggro dump on the person with the highest threat,
-and a mortal strike that's famous for critting for 8000 on plate wearers. The tanks (3-4) will hold him
-tucked away in a corner so the knockback doesn't send them away and fight for threat. The rest of the DPS
-must stay behind the tank's threat so they don't turn the boss around, blast the whole raid
-with [Blast Wave](https://classic.wowhead.com/spell=23331/blast-wave), and kill everyone.
+That's not to say he's a chump. He has a frontal cone that knocks the tanks back, a 50% aggro dump on the person
+with the highest threat, and a mortal strike that's famous for critting for 8000 on plate wearers.
+The tanks (3-4) will hold him tucked away in a corner so the knockback doesn't send them away and fight for threat.
+The rest of the DPS must stay behind the tank's threat so they don't turn the boss around and kill everyone
+with [Blast Wave](https://classic.wowhead.com/spell=23331/blast-wave).
 
 Notes:
 
