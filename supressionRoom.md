@@ -41,7 +41,7 @@ The raid will start by pulling the closest pack of whelps on the left side and p
 should pull one dragon at a time, or one pack of three orcs. When a mob is pulled, the raid should stack behind the nearest pillar
 and using only single target abilities, burn the mob down.
 
-<img src="./images/supression-hide.png" width="300px" />
+<img src="./images/supression-column.png" width="300px" />
 
 Dragons' flamestrike should be kicked although the tank can position themselves so that the raid does not get hit
 if they are stacking behind the column by going close to the column behind the raid. The packs of orcs do an AoE heal
