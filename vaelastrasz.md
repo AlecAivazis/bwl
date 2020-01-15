@@ -42,7 +42,7 @@ is and be ready to take over.
   Pack and Trueshot Aura
 - The melee second in threat should be ready to move where the boss is if the tank is going down
 - Healers should be using max raid heals
-- DoT gives instant casts so ranged should be doing damage while running into position
+- Burning Adrenenline gives instant casts so ranged should be doing damage while running into position
 - Improved backstab is super important for rogues
 - A paladin with improved lay on hands needs to keep it on the tank at all times
 - Tank should pop recklessness at 3 seconds, and death wish at 1.5s to help establish a lead at the beginning
