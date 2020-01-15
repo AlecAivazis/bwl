@@ -1,6 +1,6 @@
 # Trash after Vael / Supression Room / Broodlord
 
-Once vael is dead, the next target is the infamous Supression Room and then onto Broodlord Lashlayer.
+Once vael is dead, the next hurdle is the Supression Room and then onto Broodlord Lashlayer.
 Before the raid can enter the gauntlet, there is some trash they must go through.
 
 ## Vael Trash
@@ -65,9 +65,9 @@ pulled. However if everyone does their job, the boss should go down without too 
 
 That's not to say he's a chump. He has a frontal cone that knocks the tanks back, a 50% aggro dump on the person
 with the highest threat, and a mortal strike that's famous for critting for 8000 on plate wearers.
-The tanks (3-4) will hold him tucked away in a corner so the knockback doesn't send them away and fight for threat.
-The rest of the DPS must stay behind the tank's threat so they don't turn the boss around and kill everyone
-with [Blast Wave](https://classic.wowhead.com/spell=23331/blast-wave).
+The tanks (3-4) will hold him tucked away in a corner and fight for threat. The rest of the DPS must stay 
+behind the tank's threat so they don't turn the boss around and kill everyone with 
+[Blast Wave](https://classic.wowhead.com/spell=23331/blast-wave).
 
 Notes:
 
