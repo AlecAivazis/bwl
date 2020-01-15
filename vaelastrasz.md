@@ -38,6 +38,8 @@ is and be ready to take over.
 - Warriors need to watch their threat in the first 10% because once they start spamming execute they will
   generate a LOT of threat. It's better that they chill out at the beginning than have to stop spamming
   execute because they are going to pass the tank.
+- Consider moving a hunter and feral druid into the tank group for increased threat through Leader of the
+  Pack and Trueshot Aura
 - The melee second in threat should be ready to move where the boss is if the tank is going down
 - Healers should be using max raid heals
 - DoT gives instant casts so ranged should be doing damage while running into position
