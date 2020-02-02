@@ -11,6 +11,7 @@ This guide is broken up into separate documents for each encounter.
 1. [Razorgore the Untamed](./razorgore.md)
 1. [Vaelastrasz the Corrupt](./vaelastrasz.md)
 1. [Trash after Vael / Supression Room / Broodlord](./supressionRoom.md)
+1. [Lab Packs](./labPacks.md)
 1. [Firemaw](./firemaw.md)
 1. [Ebonroc](./ebonroc.md)
 1. [Flamegor](./flamegor.md)
