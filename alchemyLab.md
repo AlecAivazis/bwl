@@ -24,21 +24,44 @@ as the tank in order to avoid AoE damage.
 
 ## The Dragons
 
-The next three pulls are all drake bosses. They each share 3 the same three spells and have one 
-extra one:
+The next three pulls are all drake bosses. They each share 3 the same three spells and have one
+extra one.
 
-**Shadow Flame**: Deals 4000-5000 damage in a frontal cone. Handling this is very similar to a 
-Onyxia's flame breath. Healers should make sure that the tank is topped off/shielded before this is 
+_Abilities_
+
+**Shadow Flame**: Deals 4000-5000 damage in a frontal cone. Handling this is very similar to a
+Onyxia's flame breath. Healers should make sure that the tank is topped off/shielded before this is
 cast.
 
 **Wing Buffet**: Wing buffet knocks the target back and drops their threat by 50%. The off-tank should
 taunt the drake 3-4 seconds before this is cast so that the main tank can maintain threat.
 
-**Thrash**: Gives the attacker two extra attacks. Their melee do around 1k dmg so this will do 3000-4000 
-damage randomly. This is why the tank must always be topped off and the dps can be largely ignored. 
+**Thrash**: Gives the attacker two extra attacks. Their melee do around 1k dmg so this will do 3000-4000
+damage randomly. This is why the tank must always be topped off and the dps can be largely ignored.
 
 ### Firemaw
 
-Positioning is everything in this fight. If the boss moves even a little, the raid will wipe. Luckily, 
+_Abilities_
+
+**See Above**
+
+**Flame Buffet**: Inflicts 139 to 161 Fire damage to an enemy and increases the Fire damage it takes by 150 for 20 sec.
+
+_Strategy_
+
+Positioning is everything in this fight. If the boss moves even a little, the raid will wipe. Luckily,
 melee don't have to take damage if they don't want to. There is a spot in the map where they can stand
-and avoid any damage, allowing them to bandage. Healers should focus primarily on keeping the tank up
+and avoid any damage, allowing them to bandage. Healers should focus primarily on keeping the tank up.
+
+The two tanks will stand in the gateway on the left. Each of them on opposite ends of the gate. Like they
+will do with the other drakes. 4-5 seconds before Wing buffet, the off tank should taunt Firemaw off of the
+tank so their aggro is wiped instead of the main tank.
+
+<img src="./images/firemaw-tanks.png" width="300px"/>
+
+The main source of concern for non-tanks is Flame Buffet which will slowly tick away as the fight progresses.
+Eventually stacks will build up to an unsustainable point. When that happens (around 8 stacks) raiders should
+break LoS behind the column to drop their stacks. The tanks should swap around 12 stacks if it doesn't drop
+off before then.
+
+<img src="./images/firemaw-hide.png" width="300px">
