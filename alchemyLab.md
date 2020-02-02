@@ -1,8 +1,10 @@
-# Lab Packs
+# Alchemy Lab
 
-The trash in the alchemy lab consist of a mix of Warlocks, Spellbinders, Goblins, and Death
-Talon Overseers. A tank needs to be assigned to each of these and they have a kill order of
-Warlocks > Spellbinders/Overseer > Goblins.
+## Trash
+
+The trash in the alchemy lab (known as the "lab packs") consist of a mix of
+Warlocks, Spellbinders, Goblins, and Death Talon Overseers. A tank needs to be
+assigned to each of these and they have a kill order of Warlocks > Spellbinders/Overseer > Goblins.
 
 The warlocks do a large amount of AoE damage and should be burned down as quickly as possible.
 Their shadow bolt volleys should be kicked and the group should be careful to stay away from the
@@ -19,3 +21,5 @@ When attacking spellbinders, the dps should attack on the opposite side of the s
 as the tank in order to avoid AoE damage.
 
 <img src="./images/spellbinder-position.png" width="300px"/>
+
+## The Dragons
