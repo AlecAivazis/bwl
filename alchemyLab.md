@@ -97,5 +97,6 @@ _Abilities_
 
 _Strategy_
 
-This is the tranq shot boss like Magmadar in Molten Core. Every 10-15 seconds, Flamegor will enrage and start casting `Fire Nova` at least
-two hunters need to cycle tranq shots to prevent raid damage. Other than that, the fight is exactly like Ebonroc.
+This is a tranq shot boss like Magmadar in Molten Core. Every 10-15 seconds, Flamegor will enrage and start
+casting `Fire Nova`. This is easily mitigated with at least two hunters cycling tranq shots to prevent raid damage.
+Other than that, the fight is exactly like Ebonroc.
