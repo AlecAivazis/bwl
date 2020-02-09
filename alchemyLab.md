@@ -76,12 +76,12 @@ _Abilities_
 
 **See Above**
 
-**Shadow of Ebonroc**: A debuff that falls on the person with highest threat and heals ebonroc for 25k when that person
-is hit by the boss.
+**Shadow of Ebonroc**: A debuff that falls on the person with highest threat and heals ebonroc for 25k when that person is hit by the boss.
 
 _Strategy_
 
-Without Flame Buffet forcing you into a tight position, this fight is largely an easier version of Firemaw.
+Without Flame Buffet forcing you into a tight position, this fight is largely an easier version of Firemaw. Three tanks are recommended and they should cycle taunts after one of them gets Shadows of
+Ebonroc.
 
 **Notes**
 
