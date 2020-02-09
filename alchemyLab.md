@@ -72,8 +72,30 @@ off before then.
 
 ### Ebonroc
 
-**Shadow of Ebonroc**: A debuff that heals ebonroc for 25k when hit by the boss. Handling this is as easy as cycling
+_Abilities_
+
+**See Above**
+
+**Shadow of Ebonroc**: A debuff that falls on the person with highest threat and heals ebonroc for 25k when that person
+is hit by the boss.
+
+_Strategy_
+
+Without Flame Buffet forcing you into a tight position, this fight is largely an easier version of Firemaw.
 
 **Notes**
 
-- A little amount of shadow resist on your tanks (around 100) will reduce your chance of getting hit by it to 25%.
+- A little amount of shadow resist on your tanks (around 100) will reduce your chance of getting hit by Shadow of Ebonroc to 25%.
+
+### Flamegor
+
+_Abilities_
+
+**See Above**
+
+**Firenova**: Inflicts fire damage to nearby enemies
+
+_Strategy_
+
+This is the tranq shot boss like Magmadar in Molten Core. Every 10-15 seconds, Flamegor will enrage and start casting `Fire Nova` at least
+two hunters need to cycle tranq shots to prevent raid damage. Other than that, the fight is exactly like Ebonroc.
