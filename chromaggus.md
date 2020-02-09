@@ -13,6 +13,8 @@ have to be killed. While all of that is going on, Chromaggus will occationally g
 vunerability to a single school of magic. When this happens, casters of the appropriate
 school will do signifcantly more damage (and threat). At 20%, Chromaggus, enrages and hits significantly harder.
 
+Hunter specifically need to also keep tranquility shot applied on the boss at all times.
+
 ## Positioning
 
 In order to avoid the breaths, the entire raid (except the main tank) needs to be out of line of sight
