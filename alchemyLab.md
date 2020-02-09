@@ -61,7 +61,19 @@ tank so their aggro is wiped instead of the main tank.
 
 The main source of concern for non-tanks is Flame Buffet which will slowly tick away as the fight progresses.
 Eventually stacks will build up to an unsustainable point. When that happens (around 8 stacks) raiders should
-break LoS behind the column to drop their stacks. The tanks should swap around 12 stacks if it doesn't drop
+break LoS behind the column to drop their stacks. The tanks should swap around 12-15 stacks if it doesn't drop
 off before then.
 
 <img src="./images/firemaw-hide.png" width="300px">
+
+**Notes**
+
+- Tank should wear FR gear
+
+### Ebonroc
+
+**Shadow of Ebonroc**: A debuff that heals ebonroc for 25k when hit by the boss. Handling this is as easy as cycling
+
+**Notes**
+
+- A little amount of shadow resist on your tanks (around 100) will reduce your chance of getting hit by it to 25%.
