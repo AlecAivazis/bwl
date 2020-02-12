@@ -1,4 +1,4 @@
-# Bougatsa's Guide to Black Wing Lair
+# Guide to Black Wing Lair
 
 This is mostly meant for me to organize my thoughts as my guild prepares for phase 3.
 
