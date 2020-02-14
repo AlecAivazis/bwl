@@ -60,8 +60,8 @@ tank so their aggro is wiped instead of the main tank.
 <img src="./images/firemaw-tanks.png" width="300px"/>
 
 The main source of concern for non-tanks is Flame Buffet which will slowly tick away as the fight progresses.
-Eventually stacks will build up to an unsustainable point. When that happens (around 8 stacks) raiders should
-break LoS behind the column to drop their stacks. The tanks should swap around 12-15 stacks if it doesn't drop
+Eventually stacks will build up to an unsustainable point. When that happens (around 5 stacks) raiders should
+break LoS behind the column to drop their stacks. The tanks should swap around 7 stacks if it doesn't drop
 off before then.
 
 <img src="./images/firemaw-hide.png" width="300px">
