@@ -49,6 +49,8 @@ _Abilities_
 
 _Strategy_
 
+<img src="http://www.anikki.com/share/wow/bwl_firemaw.jpg" width="400px">
+
 Positioning is everything in this fight. If the boss moves even a little, the raid will wipe. Luckily,
 melee don't have to take damage if they don't want to. There is a spot in the map where they can stand
 and avoid any damage, allowing them to bandage. Healers should focus primarily on keeping the tank up.
