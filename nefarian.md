@@ -15,15 +15,15 @@ Once the mobs are down spawning (40 from each? a minute?) nefarian wil land and 
 starts. The main tank should hold him on the edge with the mages on the far corner and
 the rest of the raid standing near Nefarian's throne.
 
--- **Warrior**: Forced into breserker stance and take 30% more damage. Heal the shit out of the tank
--- **Paladin**: They cast BoP on Nefarian
--- **Warlock**: Each warlock summons two infernals that have to be killed
--- **Druid**: Turns you into cat form
--- **Shaman**: Drops corrupted totems
--- **Hunter**: Breaks the hunter ranged weapon
--- **Priest**: Make the priest heals corrupted and cause dots instead of heals. Power word shield still works.
--- **Mage**: Randomly polymorph people. The mages should be positioned at the far end of the room so they only polymorph themselves
--- **Rogue**: Rogues get rooted around nefarian. They can vanish/imp sprint/evasion
+- **Warrior**: Forced into breserker stance and take 30% more damage. Heal the shit out of the tank
+- **Paladin**: They cast BoP on Nefarian
+- **Warlock**: Each warlock summons two infernals that have to be killed
+- **Druid**: Turns you into cat form
+- **Shaman**: Drops corrupted totems
+- **Hunter**: Breaks the hunter ranged weapon
+- **Priest**: Make the priest heals corrupted and cause dots instead of heals. Power word shield still works.
+- **Mage**: Randomly polymorph people. The mages should be positioned at the far end of the room so they only polymorph themselves
+- **Rogue**: Rogues get rooted around nefarian. They can vanish/imp sprint/evasion
 
 ## Phase 3 - Raise the Dead
 
