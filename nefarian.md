@@ -29,5 +29,5 @@ the rest of the raid standing near Nefarian's throne.
 
 Once Nefarian gets to 20%, all of the mobs that were killed in the first phase raise and attack
 the group. Its imperative that the group waits for one of the free class calls before pushing them over
-(Paladin, Rogue, Hunter). The mage group should focus on one of the groups while the rest of the
-group gets the rest of the raid.
+(Paladin, Rogue, Hunter). The mage group should focus on one of the spawns while the rest of the
+raid gets the other.
