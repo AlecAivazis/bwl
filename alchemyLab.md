@@ -2,13 +2,14 @@
 
 ## Trash
 
+After broodlord is killed, clear the second floor of the supression room. 
 The trash in the alchemy lab (known as the "lab packs") consist of a mix of
 Warlocks, Spellbinders, Goblins, and Death Talon Overseers. A tank needs to be
 assigned to each of these and they have a kill order of Warlocks > Spellbinders/Overseer > Goblins.
 
 The warlocks do a large amount of AoE damage and should be burned down as quickly as possible.
 Their shadow bolt volleys should be kicked and the group should be careful to stay away from the
-tanks to avoid flamestrikes. The demons despawn after 
+tanks to avoid flamestrikes. The demons despawn after 5 minutes. 
 
 Once they are down, the raid should split up and melee should attack the Spellbinders
 (who are invulneral to magic) while ranged dps attacks the Overseers. The Overseers have
