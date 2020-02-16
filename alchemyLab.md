@@ -8,7 +8,7 @@ assigned to each of these and they have a kill order of Warlocks > Spellbinders/
 
 The warlocks do a large amount of AoE damage and should be burned down as quickly as possible.
 Their shadow bolt volleys should be kicked and the group should be careful to stay away from the
-tanks to avoid flamestrikes.
+tanks to avoid flamestrikes. The demons despawn after 
 
 Once they are down, the raid should split up and melee should attack the Spellbinders
 (who are invulneral to magic) while ranged dps attacks the Overseers. The Overseers have
